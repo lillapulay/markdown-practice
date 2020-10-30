@@ -70,7 +70,7 @@ Width and height:
 
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallsdesk.com%2Fwp-content%2Fuploads%2F2018%2F02%2FBeluga-Whale-HD-Background.jpg&f=1&nofb=1" width="500" height="300" alt="The beluga again!">
 
-Or with CSS:
+Or with CSS (doesn't work on GH):
 
 <img class="babyelly" src="https://jodilmilnerauthor.files.wordpress.com/2014/05/o-smiling-baby-elephant-facebook.jpg">
 
