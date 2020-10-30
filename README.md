@@ -165,8 +165,8 @@ Alignment in a column depends on where the colon is in the 2nd line:
 
 | Author | Books                         |
 | :----: | :---------------------------- |
-| J.R.R. | Tolkien The Lord of the Rings |
-|  J.K.  | Rowling Harry Potter          |
+| J.R.R. Tolkien | The Lord of the Rings |
+|  J.K. Rowling | Harry Potter          |
 
 ## GitHub stuff
 Checkboxes
