@@ -68,7 +68,7 @@ Or with a pinch of HTML included:
 
 Width and height:
 
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallsdesk.com%2Fwp-content%2Fuploads%2F2018%2F02%2FBeluga-Whale-HD-Background.jpg&f=1&nofb=1" width="500" height="200" alt="The beluga again!">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallsdesk.com%2Fwp-content%2Fuploads%2F2018%2F02%2FBeluga-Whale-HD-Background.jpg&f=1&nofb=1" width="500" height="300" alt="The beluga again!">
 
 Or with CSS:
 
